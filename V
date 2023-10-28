@@ -3,7 +3,7 @@ vless://68feaa64-35ae-4dfb-a735-a6b4670c7d98@8.218.105.223:2083?host=hk.emocenx.
 vless://68feaa64-35ae-4dfb-a735-a6b4670c7d98@47.242.174.27:2053?host=hk.emocenx.link&path=%2F%3Fed%3D2048&type=ws&encryption=none&security=tls&sni=hk.emocenx.link#CF3
 vless://68feaa64-35ae-4dfb-a735-a6b4670c7d98@8.218.3.12:2087?host=hk.emocenx.link&path=%2F%3Fed%3D2048&type=ws&encryption=none&security=tls&sni=hk.emocenx.link#CF4
 vless://68feaa64-35ae-4dfb-a735-a6b4670c7d98@47.243.86.79:2087?host=hk.emocenx.link&path=%2F%3Fed%3D2048&type=ws&encryption=none&security=tls&sni=hk.emocenx.link#CF5
-vless://68feaa64-35ae-4dfb-a735-a6b4670c7d98@8.210.151.69:2053?host=hk.emocenx.link&path=%2F%3Fed%3D2048&type=ws&encryption=none&security=tls&sni=hk.emocenx.link#CF6
+vless://68feaa64-35ae-4dfb-a735-a6b4670c7d98@8.218.181.189:2087?host=hk.emocenx.link&path=%2F%3Fed%3D2048&type=ws&encryption=none&security=tls&sni=hk.emocenx.link#CF6
 vless://68feaa64-35ae-4dfb-a735-a6b4670c7d98@index1.xxm3u8.top:80?host=hk.tooya198384.workers.dev&path=%2F%3Fed%3D2048&type=ws&encryption=none#link1
 vless://68feaa64-35ae-4dfb-a735-a6b4670c7d98@m3u814.shenyum3u8.top:80?host=hk.tooya198384.workers.dev&path=%2F%3Fed%3D2048&type=ws&encryption=none#link2
 vless://68feaa64-35ae-4dfb-a735-a6b4670c7d98@cfip.gay:80?host=hk.tooya198384.workers.dev&path=%2F%3Fed%3D2048&type=ws&encryption=none#link3
